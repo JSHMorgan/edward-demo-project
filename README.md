@@ -11,6 +11,8 @@ Repo to be edited as details are confirmed.
 
 ---
 
+## Code Block
+
 ```CSharp
 Console.WriteLine("Test Code Block");
 Console.ReadLine();
