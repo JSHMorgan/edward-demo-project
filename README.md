@@ -1,4 +1,4 @@
-# one-tool-many-uses
+# One Tool Many Uses
 
 Repo to be edited as details are confirmed.
 
