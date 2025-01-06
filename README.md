@@ -1,19 +1,20 @@
-# edward-demo-project
+# one-tool-many-uses
 
 Repo to be edited as details are confirmed.
 
----
+## Genre Ideas
 
-## Game Ideas
+- 2D puzzle platformer
+- 2D puzzle game
+- 3D puzzle platformer
+- Tower defence
 
--
--
+## Unity Plugins
 
----
-
-## Code Block
-
-```CSharp
-Console.WriteLine("Test Code Block");
-Console.ReadLine();
-```
+- R3
+- ZString
+- LitMotion
+- EditorAttributes
+- Editor Auto Save
+- Better Hierarchy
+- RiderFlow
