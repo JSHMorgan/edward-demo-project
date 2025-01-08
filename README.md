@@ -13,6 +13,7 @@ Repo to be edited as details are confirmed.
 - RiderFlow
 - Editor Auto Save
 - Better Hierarchy
+- Selection History
 
 ## Asset List
 
